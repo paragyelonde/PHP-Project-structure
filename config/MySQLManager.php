@@ -334,4 +334,5 @@ class MySQLManager
         echo json_encode($result);
     }*/
 }
+}
 
